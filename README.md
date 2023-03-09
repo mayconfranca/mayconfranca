@@ -2,9 +2,9 @@
 
 ## Olá, seja bem-vindo (a) ao meu perfil! Eu me chamo Maycon.
 
-#### Estou estudando e me aprofundando na área de programação. Objetivo: me tornar profissional. 👍✌😊
+### Estou estudando e me aprofundando na área de programação. Objetivo: me tornar profissional. 👍✌😊
 
-#### Tecnologias que conheço atualmente:
+### Tecnologias que conheço atualmente:
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
