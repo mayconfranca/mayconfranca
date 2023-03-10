@@ -1,8 +1,8 @@
 <div align="center">
 
-## Olá, seja bem-vindo (a) ao meu perfil! Eu me chamo Maycon.
+## Olá, e aí?! Seja bem-vindo (a), eu me chamo Maycon.
 
-### Estou estudando e me aprofundando na área de programação. Objetivo: me tornar profissional. 👍✌😊
+### Estou estudando e me aprofundando na área de programação. 👍✌😊
 
 ### Tecnologias que conheço atualmente:
 
