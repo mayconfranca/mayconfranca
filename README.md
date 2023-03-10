@@ -14,7 +14,7 @@
 </div>
   <hr>
   
-  ![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconfp&show_icons=true&theme=gruvbox)
+  ![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconfp&show_icons=true&theme=gruvbox)  
 </div>
 
 
