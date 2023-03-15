@@ -1,10 +1,10 @@
 <div align="center">
 
-## Olá, e aí?! Seja bem-vindo (a), eu me chamo Maycon.
+## Olá, e aí?! Seja bem-vindo (a)! Eu me chamo Maycon.
 
 ### Estou estudando e me aprofundando na área de programação. 👍✌😊
 
-### Tecnologias que conheço atualmente:
+### Tecnologias que conheço e aplico atualmente:
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
