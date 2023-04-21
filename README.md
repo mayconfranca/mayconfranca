@@ -17,11 +17,11 @@
 
 #
 
-  ![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconfp&show_icons=true&theme=gruvbox)
+  ![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconfranca&show_icons=true&theme=gruvbox)
 
 #
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconfp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconfranca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
