@@ -25,7 +25,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconfra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-#### Obs.: repositórios com demonstrações.
+### Obs.: repositórios com demonstrações.
 </div>
 
 
