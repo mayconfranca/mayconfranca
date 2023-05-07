@@ -4,7 +4,7 @@
 
 <!--### Estou estudando e me aprofundando na área de programação. 👍✌😊-->
   
-### Estou estudando e me aprofundando na área de desenvolvimento front-end. 👍✌😊
+### Estou me aprofundando na área de desenvolvimento front-end. 👍✌😊
 
 ### Tecnologias que conheço e utilizo atualmente:
 
