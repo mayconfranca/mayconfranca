@@ -31,7 +31,7 @@
 </div>
 
 <a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a>
-<a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a>
+<a href="https://github.com/mayconfra/calculadora-de-imc">Calculadora de IMC</a>
 <a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a>
 <a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a>
 <a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a>
