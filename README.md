@@ -29,3 +29,5 @@
 
 ### Obs.: repositórios com demonstrações.
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mayconfra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
