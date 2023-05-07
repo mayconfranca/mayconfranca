@@ -2,7 +2,9 @@
 
 ## Olá, e aí?! Seja bem-vindo (a)! Eu me chamo Maycon.
 
-### Estou estudando e me aprofundando na área de programação. 👍✌😊
+<!--### Estou estudando e me aprofundando na área de programação. 👍✌😊-->
+  
+### Estou estudando e me aprofundando na área de desenvolvimento front-end. 👍✌😊
 
 ### Tecnologias que conheço e utilizo atualmente:
 
