@@ -30,4 +30,9 @@
 ### Obs.: repositórios com demonstrações.
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mayconfra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a>
+<a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a>
+<a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a>
+<a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a>
+<a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a>
+<a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a>
