@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
+  </div>
   
   #
   
@@ -29,12 +29,13 @@
   
   ### Repositórios com demonstrações
   
-  <a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a><br>
-  <a href="https://github.com/mayconfra/calculadora-de-imc">Calculadora de IMC</a><br>
-  <a href="https://github.com/mayconfra/calculadora-de-idade">Calculadora de Idade</a><br>
-  <a href="https://github.com/mayconfra/site-com-Bootstrap">Site com Bootstrap</a><br>
-  <a href="https://github.com/mayconfra/pagina-web-com-CSS">Página web com CSS</a><br>
-  <a href="https://github.com/mayconfra/pagina-web-simples">Página web simples</a>
 </div>
 
-
+<div align="justify">
+  <a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a> |
+  <a href="https://github.com/mayconfra/calculadora-de-imc">Calculadora de IMC</a> |
+  <a href="https://github.com/mayconfra/calculadora-de-idade">Calculadora de Idade</a> |
+  <a href="https://github.com/mayconfra/site-com-Bootstrap">Site com Bootstrap</a> |
+  <a href="https://github.com/mayconfra/pagina-web-com-CSS">Página web com CSS</a> |
+  <a href="https://github.com/mayconfra/pagina-web-simples">Página web simples
+</div>
