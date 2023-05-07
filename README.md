@@ -27,15 +27,15 @@
   
   #
   
-  ### Repositórios com demonstrações
+  ## Repositórios com demonstrações
   
 </div>
 
 <div align="justify">
-  <a href="https://github.com/mayconfra/clone-home-page-site-netflix">Clone home page do site da Netflix</a> |
-  <a href="https://github.com/mayconfra/calculadora-de-imc">Calculadora de IMC</a> |
-  <a href="https://github.com/mayconfra/calculadora-de-idade">Calculadora de Idade</a> |
-  <a href="https://github.com/mayconfra/site-com-Bootstrap">Site com Bootstrap</a> |
-  <a href="https://github.com/mayconfra/pagina-web-com-CSS">Página web com CSS</a> |
-  <a href="https://github.com/mayconfra/pagina-web-simples">Página web simples
+  <a href="https://github.com/mayconfra/clone-home-page-site-netflix"><b>Clone home page do site da Netflix</b></a> |
+  <a href="https://github.com/mayconfra/calculadora-de-imc"><b>Calculadora de IMC</b></a> |
+  <a href="https://github.com/mayconfra/calculadora-de-idade"><b>Calculadora de Idade</b></a> |
+  <a href="https://github.com/mayconfra/site-com-Bootstrap"><b>Site com Bootstrap</b></a> |
+  <a href="https://github.com/mayconfra/pagina-web-com-CSS"><b>Página web com CSS</b></a> |
+  <a href="https://github.com/mayconfra/pagina-web-simples"><b>Página web simples</b>
 </div>
