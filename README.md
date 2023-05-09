@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Olá, e aí?! Seja bem-vindo (a)! Eu me chamo Maycon.
+  ## Olá, e aí?! Seja bem-vindo(a)! Eu me chamo Maycon.
   
   <!--### Estou estudando e me aprofundando na área de programação. 👍✌😊-->
   
