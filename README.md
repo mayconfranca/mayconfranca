@@ -17,11 +17,11 @@
   
   #
   
-  ![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconfra&show_icons=true&theme=gruvbox)
+  ![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconfranca&show_icons=true&theme=gruvbox)
   
   #
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconfra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconfranca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   #
   
@@ -34,10 +34,10 @@
 </div>
 
 <div align="justify">  
-  <a href="https://github.com/mayconfra/clone-home-page-site-netflix"><b>Clone home page site Netflix</b></a> |
-  <a href="https://github.com/mayconfra/calculadora-de-imc"><b>Calculadora de IMC</b></a> |
-  <a href="https://github.com/mayconfra/calculadora-de-idade"><b>Calculadora de Idade</b></a> |
-  <a href="https://github.com/mayconfra/site-com-Bootstrap"><b>Site com Bootstrap</b></a> |
-  <a href="https://github.com/mayconfra/pagina-web-com-CSS"><b>Página web com CSS</b></a> |
-  <a href="https://github.com/mayconfra/pagina-web-simples"><b>Página web simples</b>
+  <a href="https://github.com/mayconfranca/clone-home-page-site-netflix"><b>Clone home page site Netflix</b></a> |
+  <a href="https://github.com/mayconfranca/calculadora-de-imc"><b>Calculadora de IMC</b></a> |
+  <a href="https://github.com/mayconfranca/calculadora-de-idade"><b>Calculadora de Idade</b></a> |
+  <a href="https://github.com/mayconfranca/site-com-Bootstrap"><b>Site com Bootstrap</b></a> |
+  <a href="https://github.com/mayconfranca/pagina-web-com-CSS"><b>Página web com CSS</b></a> |
+  <a href="https://github.com/mayconfranca/pagina-web-simples"><b>Página web simples</b>
 </div>
