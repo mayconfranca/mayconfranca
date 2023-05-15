@@ -33,7 +33,7 @@
   
 </div>
 
-<div align="">  
+<div align="justify">  
   <a href="https://github.com/mayconfra/clone-home-page-site-netflix"><b>Clone home page do site da Netflix</b></a> |
   <a href="https://github.com/mayconfra/calculadora-de-imc"><b>Calculadora de IMC</b></a> |
   <a href="https://github.com/mayconfra/calculadora-de-idade"><b>Calculadora de Idade</b></a> |
