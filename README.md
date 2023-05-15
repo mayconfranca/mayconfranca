@@ -1,4 +1,4 @@
-<div style="center">
+<div style="text-align:center;">
   
   ## Olá, e aí?! Seja bem-vindo(a)! Eu me chamo Maycon.
   
