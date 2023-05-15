@@ -1,4 +1,4 @@
-<div style="text-align=center">
+<div align="center">
   
   ## Olá, e aí?! Seja bem-vindo(a)! Eu me chamo Maycon.
   
@@ -27,13 +27,13 @@
   
 </div>
 
-<div style="text-align:center">
+<div align="center">
   
   ### REPOSITÓRIOS COM DEMONSTRAÇÕES
   
 </div>
 
-<div style="text-align:center">  
+<div align="center">  
   <a href="https://github.com/mayconfra/clone-home-page-site-netflix"><b>Clone home page do site da Netflix</b></a> |
   <a href="https://github.com/mayconfra/calculadora-de-imc"><b>Calculadora de IMC</b></a> |
   <a href="https://github.com/mayconfra/calculadora-de-idade"><b>Calculadora de Idade</b></a> |
