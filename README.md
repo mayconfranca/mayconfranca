@@ -39,5 +39,5 @@
   <a href="https://github.com/mayconfranca/calculadora-de-idade/"><b>Calculadora de Idade</b></a> |
   <a href="https://github.com/mayconfranca/site-com-Bootstrap/"><b>Site com Bootstrap</b></a> |
   <a href="https://github.com/mayconfranca/pagina-web-com-CSS/"><b>Página web com CSS</b></a> |
-  <a href=" https://mayconfranca.github.io/pagina-web-simples/"><b>Página web simples</b>
+  <a href="https://mayconfranca.github.io/pagina-web-simples/"><b>Página web simples</b>
 </div>
