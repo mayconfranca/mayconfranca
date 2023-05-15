@@ -34,10 +34,10 @@
 </div>
 
 <div align="justify">  
-  <a href="https://mayconfranca.github.io/clone-home-page-site-netflix/"><b>Clone home page site Netflix</b></a> |
-  <a href="https://mayconfranca.github.io/calculadora-de-imc/"><b>Calculadora de IMC</b></a> |
-  <a href="https://mayconfranca.github.io/calculadora-de-idade/"><b>Calculadora de Idade</b></a> |
-  <a href="https://mayconfranca.github.io/site-com-Bootstrap/"><b>Site com Bootstrap</b></a> |
-  <a href="https://mayconfranca.github.io/pagina-web-com-CSS/"><b>Página web com CSS</b></a> |
-  <a href="https://mayconfranca.github.io/pagina-web-simples/"><b>Página web simples</b>
+  <a href="https://github.com/mayconfranca/clone-home-page-site-netflix/"><b>Clone home page site Netflix</b></a> |
+  <a href="https://github.com/mayconfranca/calculadora-de-imc/"><b>Calculadora de IMC</b></a> |
+  <a href="https://github.com/mayconfranca/calculadora-de-idade/"><b>Calculadora de Idade</b></a> |
+  <a href="https://github.com/mayconfranca/site-com-Bootstrap/"><b>Site com Bootstrap</b></a> |
+  <a href="https://github.com/mayconfranca/pagina-web-com-CSS/"><b>Página web com CSS</b></a> |
+  <a href="https://github.com/mayconfranca/pagina-web-simples/"><b>Página web simples</b>
 </div>
