@@ -4,9 +4,9 @@
   
   <!--### Estudando e me aprofundando na área de programação em front-end. 👍✌😊-->
   
-  #
-  
   <a href="https://www.linkedin.com/in/maycon-franca">MEU LINKEDIN</a>
+  
+  #
   
   ### Tecnologias que conheço e utilizo atualmente:
   
