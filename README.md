@@ -4,7 +4,7 @@
   
   <!--### Estudando e me aprofundando na área de programação em front-end. 👍✌😊-->
   
-  <a href="https://www.linkedin.com/in/maycon-franca">MEU LINKEDIN</a>
+  <a href="https://www.linkedin.com/in/maycon-franca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
   #
   
