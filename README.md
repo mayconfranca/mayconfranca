@@ -3,10 +3,8 @@
   ## Olá, e aí?! Seja bem-vindo(a)! Eu me chamo Maycon. 👍✌😊
   
   <div>
-    <a href="https://www.linkedin.com/in/maycon-franca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/maycon-franca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   </div>
-  
-  #
   
   ### Tecnologias que conheço e utilizo atualmente:
   
