@@ -4,6 +4,8 @@
   
   <!--### Estudando e me aprofundando na área de programação em front-end. 👍✌😊-->
   
+  ### Meu Linkedin
+  
   ### Tecnologias que conheço e utilizo atualmente:
   
   <div>
