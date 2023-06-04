@@ -1,8 +1,8 @@
 <div align="center">
   
-  ## Olá, e aí?! Seja bem-vindo(a)! Eu me chamo Maycon.
+  ## Olá, e aí?! Seja bem-vindo(a)! Eu me chamo Maycon. 👍✌😊
   
-  ### Estudando e me aprofundando na área de programação em front-end. 👍✌😊
+  <!--### Estudando e me aprofundando na área de programação em front-end. 👍✌😊-->
   
   ### Tecnologias que conheço e utilizo atualmente:
   
