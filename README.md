@@ -2,8 +2,6 @@
   
   ## Olá, e aí?! Seja bem-vindo(a)! Eu me chamo Maycon. 👍✌😊
   
-  <!--### Estudando e me aprofundando na área de programação em front-end. 👍✌😊-->
-  <p></p>
     <a href="https://www.linkedin.com/in/maycon-franca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
   ### Tecnologias que conheço e utilizo atualmente:
