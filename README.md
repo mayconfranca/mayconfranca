@@ -4,7 +4,7 @@
   
   ### Perfil profissional social:
   
-  <a href="https://www.linkedin.com/in/maycon-franca/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="https://www.linkedin.com/in/maycon-franca" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   
   ### Tecnologias que conheço e utilizo atualmente:
   
