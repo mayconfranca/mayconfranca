@@ -1,8 +1,8 @@
 <div align="center">
   
-  ## Olá, seja bem-vindo(a) ao meu perfil do GitHub! Eu me chamo Maycon. 👍✌😊
+  ## Olá, seja bem-vindo(a), eu me chamo Maycon! 👍✌😊
   
-  ### Perfil social profissional:
+  ### Perfil profissional social:
   
   <a href="https://www.linkedin.com/in/maycon-franca/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   
