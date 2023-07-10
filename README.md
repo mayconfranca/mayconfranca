@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Olá, seja bem-vindo(a), eu me chamo Maycon! 👍✌😊
+  ## Olá, e aí?! Eu sou o Maycon! 👍✌😊
   
   ### Portfólio e Repositórios
   
@@ -8,7 +8,7 @@
     <a href="https://github.com/mayconfranca/pagina-web-de-avaliacao"><b>PÁGINA WEB DE AVALIAÇÃO</b></a> |
     <a href="https://github.com/mayconfranca/clone-home-page-site-netflix/"><b>CLONE HOME PAGE SITE NETFLIX</b></a> |
     <a href="https://github.com/mayconfranca/calculadora-de-imc/"><b>CALCULADORA DE IMC</b></a> |
-    <a href="https://github.com/mayconfranca/calculadora-de-idade/"><b>CALCULADORA DE IDADE</b></a> |
+    <a href="https://github.com/mayconfranca/calculadora-de-idade/"><b>CALCULADORA DE IDADE</b></a> |    
     <a href="https://github.com/mayconfranca/site-com-Bootstrap/"><b>SITE COM BOOTSTRAP</b></a> |
     <a href="https://github.com/mayconfranca/pagina-web-com-CSS/"><b>PÁGINA WEB COM CSS</b></a> |
     <a href="https://github.com/mayconfranca/pagina-web-simples/"><b>PÁGINA WEB SIMPLES</b>
@@ -33,5 +33,5 @@
   ### Perfil Profissional Social
   
   <a href="https://www.linkedin.com/in/maycon-franca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-  
+
 </div>
