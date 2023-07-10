@@ -13,8 +13,6 @@
     <a href="https://github.com/mayconfranca/pagina-web-com-CSS/"><b>PÁGINA WEB COM CSS</b></a> |
     <a href="https://github.com/mayconfranca/pagina-web-simples/"><b>PÁGINA WEB SIMPLES</b>
   </div>
-
-  #
       
   ### Tecnologias que Conheço e Utilizo Atualmente
   
@@ -31,10 +29,8 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconfranca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   ![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconfranca&show_icons=true&theme=gruvbox)
-
-#
-
-### Perfil Profissional Social
+  
+  ### Perfil Profissional Social
   
   <a href="https://www.linkedin.com/in/maycon-franca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
