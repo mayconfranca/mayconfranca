@@ -10,7 +10,7 @@
     <a href="https://github.com/mayconfranca/web-page-de-calculo-de-imc"><b>WEB PAGE DE CÁLCULO DE IMC</b></a> |
     <a href="https://github.com/mayconfranca/site-com-bootstrap"><b>SITE COM BOOTSTRAP</b></a> |
     <a href="https://github.com/mayconfranca/calculadora-de-idade/"><b>CALCULADORA DE IDADE</b></a> |
-    <a href="https://github.com/mayconfranca/pagina-web-com-CSS/"><b>PÁGINA WEB COM CSS</b></a> |
+    <a href="https://github.com/mayconfranca/pagina-web-com-css"><b>PÁGINA WEB COM CSS</b></a> |
     <a href="https://github.com/mayconfranca/pagina-web-simples/"><b>PÁGINA WEB SIMPLES</b>
   </div>
       
