@@ -7,9 +7,9 @@
   <div align="justify">
     <a href="https://github.com/mayconfranca/pagina-web-de-avaliacao"><b>PÁGINA WEB DE AVALIAÇÃO</b></a> |
     <a href="https://github.com/mayconfranca/clone-home-page-site-netflix/"><b>CLONE HOME PAGE SITE NETFLIX</b></a> |
-    <a href="https://github.com/mayconfranca/calculadora-de-imc/"><b>CALCULADORA DE IMC</b></a> |
-    <a href="https://github.com/mayconfranca/calculadora-de-idade/"><b>CALCULADORA DE IDADE</b></a> |    
+    <a href=""><b>WEB PAGE DE CÁLCULO DE IMC</b></a> |
     <a href="https://github.com/mayconfranca/site-com-Bootstrap/"><b>SITE COM BOOTSTRAP</b></a> |
+    <a href="https://github.com/mayconfranca/calculadora-de-idade/"><b>CALCULADORA DE IDADE</b></a> |
     <a href="https://github.com/mayconfranca/pagina-web-com-CSS/"><b>PÁGINA WEB COM CSS</b></a> |
     <a href="https://github.com/mayconfranca/pagina-web-simples/"><b>PÁGINA WEB SIMPLES</b>
   </div>
